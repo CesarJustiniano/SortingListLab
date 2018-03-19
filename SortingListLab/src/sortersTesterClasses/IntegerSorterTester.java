@@ -59,5 +59,4 @@ public class IntegerSorterTester {
 			a[j] = rnd.nextInt(100); 
 		return a;
 	}
-
 }
